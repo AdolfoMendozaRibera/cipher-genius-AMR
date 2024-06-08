@@ -1,0 +1,10 @@
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\bin\Debug\cipher_genius.exe.config
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\bin\Debug\cipher_genius.exe
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\bin\Debug\cipher_genius.pdb
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\obj\Debug\cipher-genius.csproj.AssemblyReference.cache
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\obj\Debug\cipher_genius.Form1.resources
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\obj\Debug\cipher_genius.Properties.Resources.resources
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\obj\Debug\cipher-genius.csproj.GenerateResource.cache
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\obj\Debug\cipher-genius.csproj.CoreCompileInputs.cache
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\obj\Debug\cipher_genius.exe
+D:\Documentos de Adolfo\Desktop\Lenguajes de programacion\C#\cipher-genius-AMR-AMR\cipher-genius\obj\Debug\cipher_genius.pdb
